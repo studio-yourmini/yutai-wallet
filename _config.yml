@@ -1,0 +1,23 @@
+title: 優待ウォレット
+description: 株主優待をまるごと管理する Android アプリの公式案内ページ
+theme: jekyll-theme-cayman
+lang: ja
+
+author:
+  name: Studio Yourmini
+  email: studio.yourmini@gmail.com
+
+url: "https://studio-yourmini.github.io"
+baseurl: "/yutai-wallet"
+
+# Markdown 設定
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# 公開不要なファイル
+exclude:
+  - README.md
+  - .gitignore
+  - LICENSE
